@@ -2,7 +2,7 @@
 
 A journaling app that analyses entries through Jungian psychology, using retrieval-augmented generation over Jung's own texts instead of the model's memory.
 
-**Live:** [PLACEHOLDER: live URL]
+**Live:** [https:///www.shadowmindjournal.com]
 
 ![Demo GIF: writing an entry and running "Analyse with AI"](screenshots/demo.gif)
 
